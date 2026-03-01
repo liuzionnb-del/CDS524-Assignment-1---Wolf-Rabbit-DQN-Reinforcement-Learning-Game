@@ -16,8 +16,16 @@ A predator-prey game where a wolf agent learns to hunt rabbits using Deep Q-Netw
 ## 📊 Results
 - Best performance: **640 reward, 32 captures** in one episode (Episode 70)
 - Stable performance: 500-600 reward, 20-30 captures per episode
+- 
+## Requriment
+pygame==2.5.2
+numpy==1.24.3
+torch==2.1.0
+matplotlib==3.7.2
+
 ## How to Run
 python DNQ_game.py
+
 ## Demo Video
 https://youtu.be/GyjD5MinQ2Y
 

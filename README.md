@@ -1,4 +1,4 @@
-# CDS524-Assignment-1---Wolf-Rabbit-DQN-Reinforcement-Learning-Game
+# CDS524-Assignment-1-Wolf-Rabbit-DQN-Game
 A predator-prey game where a wolf agent learns to hunt rabbits using Deep Q-Network (DQN) in a 10×10 grid environment with traps and food.
 
 ## 🎮 Game Overview

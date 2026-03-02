@@ -29,8 +29,8 @@ torch==2.1.0
 matplotlib==3.7.2
 
 ## How to Run
-python DNQ_game.py  (start new training)
-python DNQ_game_pre_train_model.py    (use the 100 episode model)
+- python DNQ_game.py  (start new training)
+- python DNQ_game_pre_train_model.py    (use the 100 episode model)
 
 
 

@@ -1,6 +1,9 @@
 # CDS524-Assignment-1-Wolf-Rabbit-DQN-Game
 A predator-prey game where a wolf agent learns to hunt rabbits using Deep Q-Network (DQN) in a 10×10 grid environment with traps and food.
 
+## Demo Video
+https://youtu.be/GyjD5MinQ2Y
+
 ## 🎮 Game Overview
 - **Wolf (DQN agent)**: Learns to chase and capture rabbits
 - **Rabbit**: Moves randomly, prefers food locations
@@ -28,8 +31,7 @@ matplotlib==3.7.2
 ## How to Run
 python DNQ_game.py
 
-## Demo Video
-https://youtu.be/GyjD5MinQ2Y
+
 
 
 

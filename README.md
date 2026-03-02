@@ -30,7 +30,7 @@ python DNQ_game.py
 https://youtu.be/GyjD5MinQ2Y
 
 ## Results
-<img width="1500" height="800" alt="training_results" src="https://github.com/user-attachments/assets/337a6d27-fe32-4b76-ad2d-1db35a171301" />
-<img width="793" height="646" alt="92995eef-ab1a-483f-b576-a10081a9ab3e" src="https://github.com/user-attachments/assets/8cc2cd35-a598-4638-adec-daff740b8b77" />
-Best: 640 reward, 32 captures at episode 70
+<img width="1200" height="700" alt="training_results" src="https://github.com/user-attachments/assets/337a6d27-fe32-4b76-ad2d-1db35a171301" />
+<img width="600" height="500" alt="92995eef-ab1a-483f-b576-a10081a9ab3e" src="https://github.com/user-attachments/assets/8cc2cd35-a598-4638-adec-daff740b8b77" />
+
 

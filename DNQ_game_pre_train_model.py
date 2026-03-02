@@ -912,11 +912,6 @@ def main():
         # Create and run game
         game = WolfRabbitGame()
         model_loaded = game.agent.load_model("dqn_model_episode_100.pth")
-        if model_loaded:
-            print("✅ 成功加载训练好的模型！")
-            print(f"   当前探索率 ε = {game.agent.epsilon}")
-        else:
-            print("❌ 没找到模型文件，将开始新训练")
         game.train(num_episodes=Config.NUM_EPISODES)
 
         
@@ -928,4 +923,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
